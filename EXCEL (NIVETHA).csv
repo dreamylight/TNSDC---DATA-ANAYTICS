@@ -1,0 +1,56 @@
+employment_type,(All),,,,
+,,,,,
+Sum of salary,Column Labels,,,,
+Row Labels,HIGH,LOW,MED,VERYHIGH,Grand Total
+3D Computer Vision Researcher,,,,400000,400000
+AI Scientist,187000,12000,,1835000,2034000
+Analytics Engineer,,135000,,565000,700000
+Applied Data Scientist,177000,148000,,537000,862000
+Applied Machine Learning Scientist,,67400,,498000,565400
+BI Data Analyst,,64272,,11348000,11412272
+Big Data Architect,125000,,,,125000
+Big Data Engineer,160000,18000,85000,3377000,3640000
+Business Data Analyst,90000,50000,,1635000,1775000
+Cloud Data Engineer,,120000,,160000,280000
+Computer Vision Engineer,162000,10000,24000,305000,501000
+Computer Vision Software Engineer,81000,,,220000,301000
+Data Analyst,1705634,1775321,1348720,4541006,9370681
+Data Analytics Engineer,177000,50000,,20000,247000
+Data Analytics Lead,,,,405000,405000
+Data Analytics Manager,250400,,349280,290260,889940
+Data Architect,170000,90700,144854,1551059,1956613
+Data Engineer,2142794,2311920,1475700,17725379,23655793
+Data Engineering Manager,303000,121999,,174000,598999
+Data Science Consultant,144000,124000,103000,488000,859000
+Data Science Engineer,,60000,,193500,253500
+Data Science Manager,450983,,342200,11958000,12751183
+Data Scientist,2869700,1528140,1429950,66865860,72693650
+Data Specialist,,,,165000,165000
+Director of Data Engineering,282500,,,,282500
+Director of Data Science,168000,,250000,935000,1353000
+ETL Developer,,100000,,,100000
+Finance Data Analyst,,45000,,,45000
+Financial Data Analyst,,,,550000,550000
+Head of Data,317000,,30000,435000,782000
+Head of Data Science,,,,586875,586875
+Head of Machine Learning,,,,6000000,6000000
+Lead Data Analyst,,87000,,1620000,1707000
+Lead Data Engineer,,125000,75000,642000,842000
+Lead Data Scientist,3000000,,,305000,3305000
+Lead Machine Learning Engineer,,80000,,,80000
+Machine Learning Developer,100000,100000,,100000,300000
+Machine Learning Engineer,1329646,467544,215000,9169243,11181433
+Machine Learning Infrastructure Engineer,53000,,44000,195000,292000
+Machine Learning Manager,,,,157000,157000
+Machine Learning Scientist,225000,12000,,1030300,1267300
+Marketing Data Analyst,,75000,,,75000
+ML Engineer,,34000,,16026000,16060000
+NLP Engineer,,,,240000,240000
+Principal Data Analyst,245000,,,,245000
+Principal Data Engineer,185000,,,800000,985000
+Principal Data Scientist,235000,,,1212000,1447000
+Product Data Analyst,,20000,,450000,470000
+Research Scientist,231900,255000,69999,1211000,1767899
+Staff Data Scientist,,105000,,,105000
+(blank),,,,,
+Grand Total,15567557,8192296,5986703,166921482,196668038
